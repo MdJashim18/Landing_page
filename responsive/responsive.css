@@ -261,7 +261,9 @@
         border-radius: 10px;
         padding: 10px 0;
     }
-
+    .navbar-ul li a{
+        color: #FFFFFF;
+    }
     .banner {
         width: 100%;
         margin: 10px auto;
@@ -335,7 +337,7 @@
         width: 100%;
     }
     .spons{
-        width: 400px;
+        width: 300px;
         padding: 0 20px;
     }
     .logo-car img{
