@@ -324,7 +324,13 @@ header {
 }
 
 
-
+.spons-section{
+    width: 87%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .spons {
     width: 576px;
     margin: 0px auto;
